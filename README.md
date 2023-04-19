@@ -12,7 +12,7 @@ Some of the most important parameters of SVM such as kernel, C(Nu), and gamma(ep
 
 https://archive.ics.uci.edu/ml/datasets/Wilt
 
-Number of Instances: 4840
+Number of Instances: 4889
 
 Number of Attributes: 5
 
